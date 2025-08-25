@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Desafio_SOLID</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DIP\Solucao\" />
+    <Folder Include="DIP\Violacao\" />
+    <Folder Include="ISP\Solucao\" />
+    <Folder Include="ISP\Violacao\" />
+    <Folder Include="LSP\Solucao\" />
+    <Folder Include="LSP\Violacao\" />
+    <Folder Include="OCP\Solucao\" />
+    <Folder Include="OCP\Violacao\" />
+  </ItemGroup>
+
+</Project>
