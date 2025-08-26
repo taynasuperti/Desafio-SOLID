@@ -11,8 +11,6 @@
   <ItemGroup>
     <Folder Include="DIP\Solucao\" />
     <Folder Include="DIP\Violacao\" />
-    <Folder Include="ISP\Solucao\" />
-    <Folder Include="ISP\Violacao\" />
   </ItemGroup>
 
 </Project>
