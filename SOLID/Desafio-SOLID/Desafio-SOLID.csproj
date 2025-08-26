@@ -13,8 +13,6 @@
     <Folder Include="DIP\Violacao\" />
     <Folder Include="ISP\Solucao\" />
     <Folder Include="ISP\Violacao\" />
-    <Folder Include="LSP\Solucao\" />
-    <Folder Include="LSP\Violacao\" />
   </ItemGroup>
 
 </Project>
